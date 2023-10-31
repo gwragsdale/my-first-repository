@@ -1,5 +1,9 @@
 # Learning Git #
 
+## Table of Contents
+
+- example_file.txt
+
 Important steps for git workflow:
 
 1. Initialize repository with git init
@@ -9,4 +13,4 @@ Important steps for git workflow:
 5. Commit changes to version history
 6. Review previous changes with git log
 
-...DELETE ME...
+
